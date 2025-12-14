@@ -1,8 +1,9 @@
 # BAdle
 
 Daily Blue Archive quiz inspired by Wordle/Loldle.
+https://badle.onrender.com/
 
-## How to setup
+## How to setup locally
 
 1. `git clone https://github.com/zolizoli727/BAdle_project.git` the repo and make a .env file using the .env.example
 2. `composer install && npm install` inside project root
